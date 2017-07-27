@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-EASTroubleshooter - An Exchange ActiveSync Troubleshooting Script
+EASTroubleshooter - Exchange ActiveSync Troubleshooting Script
 
 .DESCRIPTION 
 EASTroubleshooter is a PowerShell script that helps you to troubleshoot
