@@ -1,4 +1,4 @@
-# Exchange Active Sync Troubleshooting Script
+# Exchange ActiveSync Troubleshooting Script
 
 EASTroubleshooter is a PowerShell script that helps you to troubleshoot Exchange ActiveSync device problems by collecting relevant information about a mailbox's configuration and device associations.
 
